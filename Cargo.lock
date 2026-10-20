@@ -1081,7 +1081,7 @@ checksum = "f17a85883d4e6d00e8a97c586de764dabcc06133f7f1d55dce5cdc070ad7fe59"
 [[package]]
 name = "wtp-agent"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "wtp-types",
 ]
@@ -1089,7 +1089,7 @@ dependencies = [
 [[package]]
 name = "wtp-crypto"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "base64",
  "ed25519-dalek",
@@ -1102,7 +1102,7 @@ dependencies = [
 [[package]]
 name = "wtp-document"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "wtp-types",
  "wtp-wire",
@@ -1111,7 +1111,7 @@ dependencies = [
 [[package]]
 name = "wtp-policy"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "wtp-types",
 ]
@@ -1119,7 +1119,7 @@ dependencies = [
 [[package]]
 name = "wtp-types"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "serde",
  "serde_json",
@@ -1129,7 +1129,7 @@ dependencies = [
 [[package]]
 name = "wtp-wire"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "hex",
  "jsonschema",
@@ -1152,7 +1152,7 @@ dependencies = [
 [[package]]
 name = "wutong-core"
 version = "0.1.0"
-source = "git+https://github.com/project-wutong/wutong-core?branch=main#ebd151cd583085c1148cc9edb1d0cb4ce8845c93"
+source = "git+https://github.com/project-wutong/wutong-core?branch=main#358e33613f62f549183495f7ea24322029be3575"
 dependencies = [
  "serde_json",
  "wtp-agent",
